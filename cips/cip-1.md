@@ -104,7 +104,7 @@ Each CIP must begin with an [RFC 822](https://www.ietf.org/rfc/rfc822.txt) style
 
 `* review-period-end:` *date review period ends*
 
-` type:` *Core, App, Meta, or Informational*
+` type:` *Core, Application, Meta, or Informational*
 
 ` * subtype:` *comma separated list of affected systems, products, processes or modules*
 
